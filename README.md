@@ -30,3 +30,6 @@
      - 发送剪贴板内容 `https://www.icloud.com/shortcuts/dc8b00e8834549b28ccf12acab0152dc`
      - 获取剪贴板内容 `https://www.icloud.com/shortcuts/bf8ec91e1a5a48acbb172d95900eaf37`
      - 也记得改下url和secret
+
+## TODO
+- 剪贴板互通文件，理论上也可以用快捷指令搞，后续做一下。目前用nas中转不算复杂，感觉可以用webDAV的方式减少操作步骤
