@@ -7,6 +7,6 @@ RUN pip install flask
 
 COPY src /src/
 
-EXPOSE 5000
+EXPOSE 8080
 
 ENTRYPOINT ["python", "/src/app.py"]
