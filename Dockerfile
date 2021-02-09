@@ -9,4 +9,4 @@ COPY src /src/
 
 EXPOSE 8080
 
-ENTRYPOINT ["python", "/src/app.py"]
+ENTRYPOINT ["python", "/src/app.py --host=0.0.0.0"]
