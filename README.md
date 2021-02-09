@@ -1,7 +1,7 @@
 # cross-platform-clipboard
 
 - 主要解决下windows和iOS设备间剪贴板不互通的痛点。
-- 虽然市面上有一些类似的app，但支持ios的相对较少，且大多依赖安装的app，且走公共服务器
+- 虽然市面上有一些类似的app，但支持ios的相对较少，且大多依赖安装的app，另外走公共服务器也有一定安全风险
 - 该项目提供了iOS快捷指令+windows python脚本的方案
 
 ## 你需要什么
