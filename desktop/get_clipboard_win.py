@@ -1,7 +1,7 @@
 from urllib import request, parse
 import os
-url = 'https://clipboard.ziiimo.cn:66/get'
-params = {'secret': '688cdcff00dd183'}
+url = 'https://yourhost/get'
+params = {'secret': 'your_key'}
 
 data = bytes(parse.urlencode(params), encoding='utf8')
 response = request.urlopen(url, data=data)
