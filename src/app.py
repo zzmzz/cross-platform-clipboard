@@ -3,7 +3,7 @@ from flask import request
 
 app = Flask(__name__)
 
-secret_key = 'zzm_secret'
+secret_key = '63f369b84e1aec'
 clipboard = '空'
 
 @app.route('/send', methods=['POST'])
